@@ -15,8 +15,9 @@ body {font-family: 'Arial', sans-serif;}
 /* Font */
 .fs-7 {font-size: 0.96rem !important;font-weight:500 !important;}
 
-/* ul */
+/* ul, li */
 .cus-left {padding-left :1em;}
+.no-dot {list-style-type: none;}
 
 /* Spacing */
 .my-cus-1 {margin-top:0.2em;margin-bottom:0.2em;}
